@@ -71,7 +71,7 @@ python main.py
 ## 📸 لقطات شاشة
 
 
-![TaskFlow Bot](docs/screenshots/task.png)
+![TaskFlow Bot](docs/screenshots/task.PNG)
 
 
 ## 💼 القيمة لصاحب العمل
