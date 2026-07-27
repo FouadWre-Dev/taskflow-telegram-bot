@@ -19,7 +19,7 @@
 
 | التقنية | الاستخدام |
 |---|---|
-| Python 3.11+ | لغة البرمجة الأساسية |
+| Python 3.12 | لغة البرمجة الأساسية |
 | aiogram 3 | إطار عمل بوت تيليجرام غير المتزامن |
 | SQLAlchemy 2.0 (Async) | ORM للتعامل مع قاعدة البيانات |
 | SQLite / aiosqlite | قاعدة بيانات افتراضية خفيفة |
@@ -53,7 +53,7 @@ telegram-taskflow-bot/
 ## 🚀 التثبيت والتشغيل
 
 ```bash
-git clone https://github.com/your-username/telegram-taskflow-bot.git
+git clone https://github.com/FouadWre-Dev/taskflow-telegram-bot.git
 cd telegram-taskflow-bot
 
 python -m venv venv
@@ -67,16 +67,11 @@ cp .env.example .env
 python main.py
 ```
 
-يمكنك الحصول على `BOT_TOKEN` عبر محادثة [@BotFather](https://t.me/BotFather) على تيليجرام.
 
 ## 📸 لقطات شاشة
 
-> أضف لقطات شاشة للبوت هنا بعد التشغيل، مثال:
-
 ```
-docs/screenshots/menu.png
-docs/screenshots/add-task.png
-docs/screenshots/admin-panel.png
+docs/screenshots/task.png
 ```
 
 ## 💼 القيمة لصاحب العمل

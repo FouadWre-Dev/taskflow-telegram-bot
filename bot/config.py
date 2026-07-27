@@ -22,7 +22,7 @@ class BotConfig:
 
 
 def load_config() -> BotConfig:
-    token =  os.getenv("BOT_TOKEN")
+    token = "Token Here... For test" # os.getenv("BOT_TOKEN")
     if not token:
         raise RuntimeError("BOT_TOKEN is not set. Check your .env file.")
 
